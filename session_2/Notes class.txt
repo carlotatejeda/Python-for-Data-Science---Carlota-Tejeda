@@ -1,0 +1,18 @@
+Github – Onedrive
+Repository – Carpeta
+Terminal – Whatever you have in the machine
+Pull – extract files from Github to be able to make changes on the terminal
+Add – commit – push  Road to create a new project on your terminal and then put it on github, a.k.a the drive
+
+Git clone in the terminal + the html link you can clone the repository in the terminal
+
+So if we do something like a new feature in an existing project, we are not going to push the project directly, we are going to create a branch and the push it to github, because we don’t want to change the full project, only add this new part.
+
+Question – does the branch, once merged, change the project? This if I were to pull the project from github, the project would contain the branch? Yes, and then that’s why we can eliminate the branch, because once you merged it, it is now part of the whole project.
+
+To create a new folder
+
+-	Add file .
+-	Create new file.
+-	In the name put the name of the folder and then follow it with / and press enter.
+-	Then put the name of the file you want to create, as for instance a text file could be, archive.txt and press commit changes and done.
