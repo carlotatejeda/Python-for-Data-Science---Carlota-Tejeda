@@ -26,8 +26,9 @@ The solution was implemented step-by-step in Python, using standard libraries su
 
 # Results
 
-- Total files: 206
-- Files following the naming convention: 195
-- Unique satellites: 5
-- Unique regions: 146
-- Month with the most annotations: April 2023
+- Total files: 206.
+- Files following the naming convention: 194.
+- The month with the most appearances is 06 of 2024 with 52 appearances.
+- Unique satellites: 21.
+- The most recent annotation file used satellite 27.
+- Unique regions: 146.
