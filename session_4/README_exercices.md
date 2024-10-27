@@ -17,12 +17,12 @@ The main objectives of this project were:
 
 The solution was implemented step-by-step in Python, using standard libraries such as os, glob, and shutil for file handling. Here’s a summary of each part:
 
-File Count: Used glob to get all files in the folder and count them.
-Naming Convention Check: Split each filename and validated each part (date, time, satellite number, etc.) to see if it matches the required format.
-Monthly Annotations: Extracted the year and month from each file, counted occurrences, and determined the busiest month.
-Folder Organization: Created a new structure to organize files by year and month for easy access.
-Sorting: Sorted files by date to display them in descending order.
-Satellite and Region Analysis: Extracted unique satellite numbers and regions and counted them, then found the latest file per satellite.
+- File Count: Used glob to get all files in the folder and count them.
+- Naming Convention Check: Split each filename and validated each part (date, time, satellite number, etc.) to see if it matches the required format.
+- Monthly Annotations: Extracted the year and month from each file, counted occurrences, and determined the busiest month.
+- Folder Organization: Created a new structure to organize files by year and month for easy access.
+- Sorting: Sorted files by date to display them in descending order.
+- Satellite and Region Analysis: Extracted unique satellite numbers and regions and counted them, then found the latest file per satellite.
 
 # Results
 
