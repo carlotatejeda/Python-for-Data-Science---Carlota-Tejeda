@@ -1,10 +1,10 @@
-#Session 4 Exercises
+# Session 4 Exercises
 
-#Overview
+# Overview
 
 This project involves designing a course registration system using Object-Oriented Programming (OOP) principles. The project includes creating classes for managing students, courses, and registrations, along with a system to handle enrollments, course listings, and grade assignments.
 
-#Objectives
+# Objectives
 
 The main objectives of this project were:
 
