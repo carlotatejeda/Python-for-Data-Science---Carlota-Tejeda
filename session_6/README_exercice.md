@@ -1,4 +1,4 @@
-# Netflix and Titanic Dataset Analysis
+# Netflix and titanic dataset analysis
 
 # Overview
 
@@ -7,7 +7,7 @@ Objectives
 
 # The main objectives of this project were:
 
-Netflix Dataset Analysis
+Netflix dataset analysis
 
 - Check for missing ratings.
 - Identify the number of films from 2021 that correspond to a specific country.
@@ -15,7 +15,7 @@ Netflix Dataset Analysis
 - Find the year with the most titles released.
 - Determine the average number of releases per year from 2010 onward.
 
-Titanic Dataset Analysis
+Titanic dataset analysis
 
 - Calculate the survival percentage by gender.
 - Calculate the survival percentage grouped by gender and class.
