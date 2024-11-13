@@ -1,4 +1,4 @@
-# Session 5 Exercises
+# Session 5 exercises
 
 # Overview
 
