@@ -1,6 +1,6 @@
-# Exercice session 7
+# Exercice session 7
 
-# Overview
+# Overview
 
 This project focuses on handling missing data and performing various data transformation tasks using Python and the Pandas library.
 
