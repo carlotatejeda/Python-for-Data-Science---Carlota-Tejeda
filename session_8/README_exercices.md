@@ -19,5 +19,8 @@ This project involves creating visualizations and performing data analysis using
 
 # Libraries used
 Pandas: Data manipulation and preprocessing.
+
 Seaborn: Advanced visualizations.
+
 Matplotlib: Customizing plot appearance.
+
